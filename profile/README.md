@@ -76,6 +76,12 @@ has what you need.
 
 - <https://github.com/Textualize/rich>
 
+#### Pandas
+
+The way you can work with data:
+
+- <https://pandas.pydata.org/docs/reference/index.html>
+
 ### Golang
 
 #### Configuration
