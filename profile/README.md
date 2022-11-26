@@ -13,6 +13,13 @@ useful URLs here to refer them just by clicking them.
 There are libraries, tutorials, etc. which personally prefer them,
 and you may find some examples in this organization about them.
 
+### Mirrors
+
+One the main issues in our country is finding the best mirror for removing sanctions.
+
+- Debian: <https://www.debian.org/mirror/>
+- Alpine: <https://mirrors.alpinelinux.org/>
+
 ### Python
 
 #### Configuration
@@ -20,7 +27,7 @@ and you may find some examples in this organization about them.
 I love the way we can configure Golang application **WITH TYPES**, but this library
 is python seems nice to me.
 
-- <https://github.com/dynaconf/dynaconf> <https://www.dynaconf.com/>
+- <https://github.com/dynaconf/dynaconf> -- <https://www.dynaconf.com/>
 
 #### HTTP Frameworks
 
@@ -54,7 +61,7 @@ Semi-automatic documentation for the REST APIs:
 
 #### Tests
 
-In python you need a library for testing in Python:
+In python, you need a library for testing in Python:
 
 - <https://docs.pytest.org/en/stable/index.html>
 
@@ -93,8 +100,8 @@ There is also another options, but I use it rarely:
 
 There are multiple frameworks in Go:
 
-- <https://gofiber.io/> <https://github.com/gofiber/fiber>
-- <https://echo.labstack.com/> <https://github.com/labstack/echo>
+- <https://gofiber.io/> --- <https://github.com/gofiber/fiber>
+- <https://echo.labstack.com/> --- <https://github.com/labstack/echo>
 
 #### Telemetry
 
@@ -127,7 +134,7 @@ but when you need more:
 
 /gorm/ is easy and fun, but you also prefer to write down your queries like man.
 
-- <https://github.com/go-gorm/gorm> <https://gorm.io/>
+- <https://github.com/go-gorm/gorm> --- <https://gorm.io/>
 
 #### Redis
 
