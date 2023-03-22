@@ -5,3 +5,7 @@ We use these repositories to learn new languages and technologies by actually wo
 and because of that these repositories may not be complete, working properly and idiomatic.
 
 Feel free to contribute 😊
+
+<p align="center">
+  <img src="./img/us.gif" alt="us" />
+</p>
