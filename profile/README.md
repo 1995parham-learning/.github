@@ -1,4 +1,4 @@
-# Hello 👋, Welcome to my hands-on learning repositories
+# Hello 👋, Welcome to our hands-on learning repositories
 
 Here we (Parham & Elahe) gather our hands-on learning repositories.
 We use these repositories to learn new languages and technologies by actually working with them,
