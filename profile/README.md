@@ -7,5 +7,5 @@ and because of that these repositories may not be complete, working properly and
 Feel free to contribute 😊
 
 <p align="center">
-  <img src="./img/us.gif" alt="us" />
+  <img src="img/us.gif" alt="us" />
 </p>
